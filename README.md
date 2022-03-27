@@ -1,4 +1,4 @@
-# Infra for <a>renelevesque.com</a>
+# Infra for [renelevesque.com](https://renelevesque.com)
 - Route 53 pointing to cloudfront distibution
 - Cloudfront distribution pointing to S3 bucket
 - S3 bucket to hold static website files
